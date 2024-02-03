@@ -5,7 +5,7 @@
 >numpy
 >keras
 >requests
->tensorflow
+>tensorflow 
 >Pillow
 
 ##Референс
